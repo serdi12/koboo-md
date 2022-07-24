@@ -12,7 +12,7 @@ const chalk = require('chalk')
 lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
 global.owner = ['6289516947204','6289516947204','6289516947204','0','6289516947204']
-global.premium = ['6289516947204']
+global.premium = ['']
 global.packname = '𝚁𝙲𝚃𝙸𝙱𝙾𝚃-MD'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
